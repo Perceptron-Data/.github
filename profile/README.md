@@ -6,13 +6,14 @@
 
 | | Actor | What it does |
 |---|---|---|
+| <img src="https://perceptron-data.github.io/assets/icons/research-agent-256.png" width="32" alt=""> | [Research Agent – Evidence-Graded Web Search for RAG](https://perceptron-data.github.io/actors/research-agent/) | Ask a question, get cited passages from Google, official EU and German law, research papers and Wikipedia — with evidence levels, a fact cross-check and freshness warnings. |
 | <img src="https://perceptron-data.github.io/assets/icons/doc-markdown-256.png" width="32" alt=""> | [PDF & DOCX to Markdown – Excel, PowerPoint, Tables, OCR for RAG](https://perceptron-data.github.io/actors/pdf-to-markdown-converter/) | Turn PDF, DOCX, XLSX and PPTX files into clean Markdown with tables as JSON and OCR for scans — per document, page or RAG chunk. No LLM involved. |
 
 ### For sales and lead generation
 
 | | Actor | What it does |
 |---|---|---|
-| <img src="https://perceptron-data.github.io/assets/icons/ads-transparency-256.png" width="32" alt=""> | [Google Ads Transparency Scraper – Bulk Advertiser & Ads Check](https://perceptron-data.github.io/actors/google-ads-transparency-scraper/) | Check company lists against Google Ads Transparency and the Microsoft Ad Library: who advertises, how many ads, which accounts, active in the last 30 days. |
+| <img src="https://perceptron-data.github.io/assets/icons/ads-transparency-256.png" width="32" alt=""> | [Google & Bing Ads Transparency Scraper – Bulk Advertiser Check](https://perceptron-data.github.io/actors/google-ads-transparency-scraper/) | Check company lists against Google Ads Transparency and the Microsoft Ad Library: who advertises, how many ads, which accounts, active in the last 30 days. |
 | <img src="https://perceptron-data.github.io/assets/icons/impressum-256.png" width="32" alt=""> | [Imprint & Impressum Scraper — Email, Phone, VAT & Company Data](https://perceptron-data.github.io/actors/imprint-impressum-website-contact-scraper/) | Turn domains into verified company records: legal name, address, register number, VIES-checked VAT ID, e-mail, phone and socials from the Impressum. |
 | <img src="https://perceptron-data.github.io/assets/icons/messe-muenchen-256.png" width="32" alt=""> | [Messe München Exhibitor List Scraper – bauma, IFAT, BAU](https://perceptron-data.github.io/actors/messe-muenchen-exhibitor-list-scraper/) | Export bauma, IFAT, BAU, automatica and ceramitec exhibitor lists with hall and stand, address, business e-mail, phone and product groups. |
 | <img src="https://perceptron-data.github.io/assets/icons/koelnmesse-256.png" width="32" alt=""> | [Anuga & Koelnmesse Exhibitor List Scraper – Emails & Phones](https://perceptron-data.github.io/actors/anuga-ism-koelnmesse-exhibitor-scraper/) | Export Anuga, ISM, imm cologne, interzum, ORGATEC and more: company, hall and stand, address, business e-mail, phone, brands and product categories. |
