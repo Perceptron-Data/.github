@@ -2,7 +2,11 @@
 <h2 align="center">Check, don't guess.</h2>
 <p align="center">Company checks and data from public sources, as <a href="https://apify.com/perceptr0n">Apify</a> actors. Built in Germany. Focused on DACH and the EU.<br><a href="https://perceptron-data.github.io/">Website</a> · <a href="https://perceptron-data.github.io/de/">Deutsch</a> · <a href="https://perceptron-data.github.io/quality/">Weekly checks</a> · <a href="https://apify.com/perceptr0n">All actors on Apify</a></p>
 
-Paste a list of companies or domains and get one row per company with a traceable answer. Paid per company checked or per record, plus a small start fee per run.
+Paste website domains and get the company behind each one: legal name, register number and VAT number, checked live against the EU's VIES register. Ask a question and get cited passages with an evidence level for your LLM. Every row says where its data came from. Paid per result, plus a small start fee per run.
+
+**Measured, not promised:** 8 of 9 websites that refused automated requests or needed JavaScript came back complete, with a VIES-valid VAT number (Imprint & VAT Check · Apify platform test, 13 Oct 2026) · 10 of 10 published research questions gave the known answer in the weekly check (Research Agent · 12 Oct 2026) · 164 field values compared one by one with the original source: 136 matched (82.9%) (Imprint & VAT Check · sample, 12 Oct 2026)
+
+**For AI agents:** every actor is a tool on Apify's MCP server — `https://mcp.apify.com?tools=perceptr0n/imprint-impressum-website-contact-scraper,perceptr0n/research-agent` · [setup for Claude Code, Cursor and the API](https://perceptron-data.github.io/agents/)
 
 ## Company checks
 
