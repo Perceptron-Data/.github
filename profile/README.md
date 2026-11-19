@@ -37,6 +37,7 @@ Who is hiring in Germany, how employees rate employers, who exhibits in Munich a
 | | Actor | What you get | Price (Apify free plan) |
 |---|---|---|---|
 | <img src="https://perceptron-data.github.io/assets/icons/arbeitsagentur-256.png" width="32" alt=""> | [Arbeitsagentur Jobs](https://perceptron-data.github.io/actors/arbeitsagentur-jobs-scraper/) | Keyword and place in, one row per job out: employer, salary range, home office, location – who is hiring in Germany. | $1.00 per 1,000 jobs (from $0.50) + $0.01 start fee per run |
+| <img src="https://perceptron-data.github.io/assets/icons/logo-256.png" width="32" alt=""> | [XING Jobs](https://perceptron-data.github.io/actors/xing-jobs-scraper/) | Keyword and place in, one row per job out: company, salary with its source, career level, full text – DACH jobs from XING. | $1.00 per 1,000 jobs (from $0.50) + $0.00005 start fee per run |
 | <img src="https://perceptron-data.github.io/assets/icons/kununu-256.png" width="32" alt=""> | [kununu Employer Data](https://perceptron-data.github.io/actors/kununu-employer-data-scraper/) | kununu profiles in, one row per employer out: score vs. industry, salary ranges of top job titles, benefits and reviews. | $1.00 per 1,000 records (from $0.50) + $0.04 start fee per run |
 | <img src="https://perceptron-data.github.io/assets/icons/messe-muenchen-256.png" width="32" alt=""> | [Messe München Exhibitors](https://perceptron-data.github.io/actors/messe-muenchen-exhibitor-list-scraper/) | Exhibitor directory in, one row per exhibitor out: stand, address, phone, website, product groups – who exhibits in Munich. | $5.00 per 1,000 exhibitors (from $2.50) + $0.01 start fee per run |
 | <img src="https://perceptron-data.github.io/assets/icons/koelnmesse-256.png" width="32" alt=""> | [Koelnmesse Exhibitors](https://perceptron-data.github.io/actors/anuga-ism-koelnmesse-exhibitor-scraper/) | Exhibitor list in, one row per exhibitor out: hall and stand, contacts, brands and product categories – who exhibits in Cologne. | $5.00 per 1,000 exhibitors (from $2.50) + $0.01 start fee per run |
@@ -75,8 +76,14 @@ Not sure which actor fits? The free finder names it, with fields and run cost.
 |---|---|---|---|
 | <img src="https://perceptron-data.github.io/assets/icons/finder-256.png" width="32" alt=""> | [Data Source Finder](https://perceptron-data.github.io/actors/dach-eu-data-source-finder/) | A source in, the matching actor out – with fields, record count and run cost. Free. | Free |
 
+## Custom Actors
+
+Need a source that is not in the catalogue, extra fields or a different delivery? Perceptron Data also builds actors to order. Write to thom.ehr@gmail.com with the source and the data you need, or open an issue on the Apify page of one of our actors. Prices are quoted per project.
+
 ### Auf Deutsch
 
 **Prüfen statt raten.** Firmen-Checks und Daten aus öffentlichen Quellen: Wer wirbt bei Google und Bing, wer steht hinter einer Website (USt-IdNr. über die EU-Prüfung VIES), dazu Register, Stellen, Messen, Dokumente und Recherche für KI — [zur deutschen Übersicht](https://perceptron-data.github.io/de/).
+
+**Actors nach Maß:** Schreiben Sie an thom.ehr@gmail.com, welche Quelle und welche Daten Sie brauchen, oder eröffnen Sie ein Issue auf der Apify-Seite eines unserer Actors. Preise je Projekt nach Angebot.
 
 <sub>[Impressum](https://perceptron-data.github.io/impressum/) · [Datenschutz](https://perceptron-data.github.io/datenschutz/) · Independent provider, not affiliated with Apify or the data sources named. Bug reports are welcome.</sub>
