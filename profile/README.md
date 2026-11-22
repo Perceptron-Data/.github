@@ -44,10 +44,11 @@ Who is hiring in Germany, how employees rate employers, who exhibits in Munich a
 
 ### Registers
 
-EU tenders, German power plants and EU medical devices from public registers.
+Insolvency and register notices for German companies, EU tenders and German power plants – from public registers.
 
 | | Actor | What you get | Price (Apify free plan) |
 |---|---|---|---|
+| <img src="https://perceptron-data.github.io/assets/icons/insolvency-monitor-256.png" width="32" alt=""> | [Insolvency & Handelsregister Monitor](https://perceptron-data.github.io/actors/german-insolvency-handelsregister-monitor/) | Company list in, one row per German company out: insolvency and register notices, EU VAT ID check, open positions – or only what changed. | $20.00 per 1,000 company rows (from $10.00) + $0.00005 start fee per run |
 | <img src="https://perceptron-data.github.io/assets/icons/ted-256.png" width="32" alt=""> | [TED Tenders](https://perceptron-data.github.io/actors/eu-tenders-ted-scraper/) | Countries and CPV codes in, one row per notice out: buyer, value, deadline and award winner – who wins public contracts. | $2.00 per 1,000 tenders (from $1.00) + $0.01 start fee per run |
 | <img src="https://perceptron-data.github.io/assets/icons/mastr-256.png" width="32" alt=""> | [MaStR Energy Assets](https://perceptron-data.github.io/actors/german-energy-assets-mastr/) | Filters in, one row per plant out: operator, capacity, commissioning date, grid operator – who operates energy assets in Germany. | $4.00 per 1,000 units (from $2.00) + $0.04 start fee per run |
 | <img src="https://perceptron-data.github.io/assets/icons/eudamed-256.png" width="32" alt=""> | [EUDAMED Medical Devices](https://perceptron-data.github.io/actors/eudamed-medical-device-scraper/) | Filters in, one row per device, manufacturer or certificate out – who makes which medical devices in the EU. | $30.00 per 1,000 records (from $15.00) + $0.02 start fee per run |
@@ -70,10 +71,11 @@ Cited passages from the web, EU and German legal texts and open research for AI 
 
 ### Tools
 
-Not sure which actor fits? The free finder names it, with fields and run cost.
+Merge datasets and remove duplicates – or let the free finder name the actor that fits, with fields and run cost.
 
 | | Actor | What you get | Price (Apify free plan) |
 |---|---|---|---|
+| <img src="https://perceptron-data.github.io/assets/icons/dataset-merge-dedupe-256.png" width="32" alt=""> | [Dataset Merge & Company Dedupe](https://perceptron-data.github.io/actors/merge-dedupe-datasets-company-leads/) | Datasets, files or rows in, one merged dataset without duplicates out – for lead lists one row per company, with the reason for every merge. | $0.30 per 1,000 rows in merge or dedupe mode (from $0.20) + $0.00005 start fee per run |
 | <img src="https://perceptron-data.github.io/assets/icons/finder-256.png" width="32" alt=""> | [Data Source Finder](https://perceptron-data.github.io/actors/dach-eu-data-source-finder/) | A source in, the matching actor out – with fields, record count and run cost. Free. | Free |
 
 ## Custom Actors
